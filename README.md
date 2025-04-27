@@ -1,15 +1,8 @@
 <div align="center">
-<<<<<<< HEAD
 <img src="./tflogo.png" width=50 height=50 align='center'/>
    <h1> TeamForward </h1>
 </div>
 
-=======
-   <h1>TeamForward </h1>
-</div>
-
-# Who are we
->>>>>>> origin/main
 
 TeamForward is a social platform designed to connect local professionals through wellness activities, fostering meaningful relationships and personal growth. Our dynamic web app offers opportunities to network, build friendships, and have fun while prioritizing social interactions and physical activity. By promoting positivity and support, we empower individuals to achieve their goals and create thriving communities.
 
@@ -36,11 +29,7 @@ TeamForward allows users to:
   <td>
   <a href="https://github.com/timDeHof">
   <figure align='center'>
-<<<<<<< HEAD
   <img src="https://github.com/timDeHof.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/timDeHof.png" width=50 height=50/>
->>>>>>> origin/main
    <br/>
   <figcaption>Lead Frontend Engineer</figcaption>
   </figure>
@@ -49,11 +38,7 @@ TeamForward allows users to:
       <td>
       <a href="https://github.com/alexh205">
   <figure align='center'>
-<<<<<<< HEAD
   <img src="https://github.com/alexh205.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/alexh205.png" width=50 height=50/>
->>>>>>> origin/main
    <br/>
   <figcaption>Frontend Developer</figcaption>
   </figure>
@@ -62,11 +47,7 @@ TeamForward allows users to:
           <td>
         <a href="https://github.com/Mehdi-Salehii">
   <figure align='center'>
-<<<<<<< HEAD
   <img src="https://github.com/Mehdi-Salehii.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/Mehdi-Salehii.png" width=50 height=50/>
->>>>>>> origin/main
      <br/>
   <figcaption>Frontend Developer</figcaption>
   </figure>
@@ -75,11 +56,7 @@ TeamForward allows users to:
               <td>
         <a href="https://github.com/rlaquea">
   <figure align='center'>
-<<<<<<< HEAD
   <img src="https://github.com/rlaquea.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/rlaquea.png" width=50 height=50/>
->>>>>>> origin/main
      <br/>
   <figcaption>Frontend Developer</figcaption>
   </figure>
@@ -90,11 +67,7 @@ TeamForward allows users to:
       <td>
   <a href="https://github.com/aasmal97">
   <figure align='center'>
-<<<<<<< HEAD
   <img src="https://github.com/aasmal97.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/aasmal97.png" width=50 height=50/>
->>>>>>> origin/main
      <br/>
   <figcaption>Lead Backend Engineer</figcaption>
   </figure>
@@ -103,11 +76,7 @@ TeamForward allows users to:
       <td>
             <a href="https://github.com/EslemOuederni">
   <figure align='center'>
-<<<<<<< HEAD
   <img src="https://github.com/EslemOuederni.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/EslemOuederni.png" width=50 height=50/>
->>>>>>> origin/main
      <br/>
   <figcaption>Backend Developer</figcaption>
   </figure>
@@ -116,11 +85,7 @@ TeamForward allows users to:
       <td>
             <a href="https://github.com/kweeuhree">
   <figure align='center'>
-<<<<<<< HEAD
   <img src="https://github.com/kweeuhree.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/kweeuhree.png" width=50 height=50/>
->>>>>>> origin/main
      <br/>
   <figcaption>Backend Developer</figcaption>
   </figure>
@@ -129,11 +94,7 @@ TeamForward allows users to:
       <td>
             <a href="https://github.com/DrAcula27">
   <figure align='center'>
-<<<<<<< HEAD
   <img src="https://github.com/DrAcula27.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/DrAcula27.png" width=50 height=50/>
->>>>>>> origin/main
      <br/>
   <figcaption>Backend Developer</figcaption>
   </figure>
@@ -144,11 +105,7 @@ TeamForward allows users to:
   <td>
             <a href="https://github.com/isra991">
   <figure align='center'>
-<<<<<<< HEAD
   <img src="https://github.com/isra991.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/isra991.png" width=50 height=50/>
->>>>>>> origin/main
      <br/>
   <figcaption>Data Scientist</figcaption>
   </figure>
@@ -159,11 +116,7 @@ TeamForward allows users to:
   <td>
             <a href="https://github.com/Pharmacode">
   <figure align='center'>
-<<<<<<< HEAD
   <img src="https://github.com/Pharmacode.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/Pharmacode.png" width=50 height=50/>
->>>>>>> origin/main
      <br/>
   <figcaption>UI/UX Designer</figcaption>
   </figure>
@@ -174,11 +127,7 @@ TeamForward allows users to:
   <td>
             <a href="https://github.com/Sanaz-RH">
   <figure align='center'>
-<<<<<<< HEAD
   <img src="https://github.com/Sanaz-RH.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/Sanaz-RH.png" width=50 height=50/>
->>>>>>> origin/main
      <br/>
   <figcaption>UI/UX Designer</figcaption>
   </figure>
@@ -188,11 +137,7 @@ TeamForward allows users to:
     <td>
             <a href="https://github.com/RoxaneDesign">
   <figure align='center'>
-<<<<<<< HEAD
   <img src="https://github.com/RoxaneDesign.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/RoxaneDesign.png" width=50 height=50/>
->>>>>>> origin/main
      <br/>
   <figcaption>UI/UX Designer</figcaption>
   </figure>
@@ -204,11 +149,7 @@ TeamForward allows users to:
   <td>
       <a href="https://github.com/farhadham">
       <figure align="center">
-<<<<<<< HEAD
       <img src="https://github.com/farhadham.png" width=50 height=50 align='center'/>
-=======
-      <img src="https://github.com/farhadham.png" width=50 height=50/>
->>>>>>> origin/main
       <br/>
       <figcaption width=50>Solution Architect</figcaption>
       </figure>
@@ -217,11 +158,7 @@ TeamForward allows users to:
       <td>
   <a href="https://github.com/onetoughcookie226">
   <figure align='center'>
-<<<<<<< HEAD
   <img src="https://github.com/onetoughcookie226.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/onetoughcookie226.png" width=50 height=50/>
->>>>>>> origin/main
           <br/>
   <figcaption>Product Owner</figcaption>
   </figure>
@@ -230,11 +167,6 @@ TeamForward allows users to:
 </tr>
 </table>
 
-<<<<<<< HEAD
-=======
-#### Thank you to [Jim](https://github.com/jdmedlock) and the [Chingu](https://www.chingu.io/) team!
-
->>>>>>> origin/main
 #### A special thanks to our past contributors !
 
 <table>
@@ -242,11 +174,7 @@ TeamForward allows users to:
     <td>Frontend Devs</td>
     <td>
         <a href="https://github.com/MattRueter">
-<<<<<<< HEAD
   <img src="https://github.com/MattRueter.png" width=50 height=50 align='center'/>
-=======
-  <img src="https://github.com/MattRueter.png" width=50 height=50/>
->>>>>>> origin/main
     </a>
     <a href="https://github.com/tdo95">
       <img src="https://github.com/tdo95.png" width="50" height="50" >
@@ -287,11 +215,8 @@ TeamForward allows users to:
   </tr>
 </table>
 
-<<<<<<< HEAD
 #### Thank you to [Jim](https://github.com/jdmedlock) and the [Chingu](https://www.chingu.io/) team!
 
-=======
->>>>>>> origin/main
 <!-- - [Issac](https://github.com/issac-lewkowicz)
 - [Danielle](https://github.com/DrAcula27)
 - [Oscar](https://github.com/oscarsanchez13)
