@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./tflogo.png" width=50 height=50 align='center'/>
+<img src="../tflogo.png" width=50 height=50 align='center'/>
    <h1> TeamForward </h1>
 </div>
 
