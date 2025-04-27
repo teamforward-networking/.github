@@ -18,10 +18,6 @@ TeamForward allows users to:
 - Find like-minded users who share the same interests & activities
 - Connect via private messaging with users
 
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
 # 🛠 The Team [`⇧`](#)
 
 <table>
