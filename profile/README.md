@@ -173,7 +173,7 @@ TeamForward allows users to:
   <img src="https://github.com/MattRueter.png" width=50 height=50 align='center'/>
     </a>
     <a href="https://github.com/tdo95">
-      <img src="https://github.com/tdo95.png" width="50" height="50" >
+      <img src="https://github.com/tdo95.png" width="50" height="50" align='center'>
     </a>
     </td>
   </tr>
@@ -181,23 +181,23 @@ TeamForward allows users to:
     <td>Backend Devs</td>
     <td>
     <a href="https://github.com/TeddyGavi">
-      <img src="https://github.com/TeddyGavi.png" width="50" height="50" >
+      <img src="https://github.com/TeddyGavi.png" width="50" height="50" align='center'>
     </a>
     </td>
   </tr><tr>
     <td>Tech Leads</td>
     <td>
     <a href="https://github.com/jaceksupernak">
-      <img src="https://github.com/jaceksupernak.png" width="50" height="50">
+      <img src="https://github.com/jaceksupernak.png" width="50" height="50" align='center'>
     </a>
     <a href="https://github.com/doinby">
-      <img src="https://github.com/doinby.png" width="50" height="50" >
+      <img src="https://github.com/doinby.png" width="50" height="50" align='center'>
     </a>
     <a href="https://github.com/ronaldpaek">
-      <img src="https://github.com/ronaldpaek.png" width="50" height="50" >
+      <img src="https://github.com/ronaldpaek.png" width="50" height="50" align='center'>
     </a>
     <a href="https://github.com/ericadev">
-      <img src="https://github.com/ericadev.png" width="50" height="50" >
+      <img src="https://github.com/ericadev.png" width="50" height="50" align='center'>
     </a>
     </td>
   </tr>
