@@ -3,7 +3,6 @@
    <h1> TeamForward </h1>
 </div>
 
-
 TeamForward is a social platform designed to connect local professionals through wellness activities, fostering meaningful relationships and personal growth. Our dynamic web app offers opportunities to network, build friendships, and have fun while prioritizing social interactions and physical activity. By promoting positivity and support, we empower individuals to achieve their goals and create thriving communities.
 
 # Overview [`⇧`](#table-of-contents)
@@ -22,8 +21,8 @@ TeamForward allows users to:
 
 <table>
 <tr>
-  <td>
-  <a href="https://github.com/timDeHof">
+  <td align="center">
+  <a href="https://github.com/timDeHof" align="center">
   <figure align='center'>
   <img src="https://github.com/timDeHof.png" width=50 height=50 align='center'/>
    <br/>
@@ -31,8 +30,8 @@ TeamForward allows users to:
   </figure>
   </a>
     </td>
-      <td>
-      <a href="https://github.com/alexh205">
+      <td align="center">
+      <a href="https://github.com/alexh205" align="center">
   <figure align='center'>
   <img src="https://github.com/alexh205.png" width=50 height=50 align='center'/>
    <br/>
@@ -40,8 +39,8 @@ TeamForward allows users to:
   </figure>
   </a>
     </td>
-          <td>
-        <a href="https://github.com/Mehdi-Salehii">
+          <td align="center">
+        <a href="https://github.com/Mehdi-Salehii" align="center">
   <figure align='center'>
   <img src="https://github.com/Mehdi-Salehii.png" width=50 height=50 align='center'/>
      <br/>
@@ -49,8 +48,8 @@ TeamForward allows users to:
   </figure>
   </a>
     </td>
-              <td>
-        <a href="https://github.com/rlaquea">
+              <td align="center">
+        <a href="https://github.com/rlaquea" align="center">
   <figure align='center'>
   <img src="https://github.com/rlaquea.png" width=50 height=50 align='center'/>
      <br/>
@@ -60,8 +59,8 @@ TeamForward allows users to:
     </td>
     </tr>
     <tr>
-      <td>
-  <a href="https://github.com/aasmal97">
+      <td align="center">
+  <a href="https://github.com/aasmal97" align="center">
   <figure align='center'>
   <img src="https://github.com/aasmal97.png" width=50 height=50 align='center'/>
      <br/>
@@ -69,8 +68,8 @@ TeamForward allows users to:
   </figure>
   </a>
     </td>
-      <td>
-            <a href="https://github.com/EslemOuederni">
+      <td align="center">
+            <a href="https://github.com/EslemOuederni" align="center">
   <figure align='center'>
   <img src="https://github.com/EslemOuederni.png" width=50 height=50 align='center'/>
      <br/>
@@ -78,8 +77,8 @@ TeamForward allows users to:
   </figure>
   </a>
     </td>
-      <td>
-            <a href="https://github.com/kweeuhree">
+      <td align="center">
+            <a href="https://github.com/kweeuhree" align="center">
   <figure align='center'>
   <img src="https://github.com/kweeuhree.png" width=50 height=50 align='center'/>
      <br/>
@@ -87,8 +86,8 @@ TeamForward allows users to:
   </figure>
   </a>
     </td>
-      <td>
-            <a href="https://github.com/DrAcula27">
+      <td align="center">
+            <a href="https://github.com/DrAcula27" align="center">
   <figure align='center'>
   <img src="https://github.com/DrAcula27.png" width=50 height=50 align='center'/>
      <br/>
@@ -98,8 +97,8 @@ TeamForward allows users to:
     </td>
 </tr>
 <tr>
-  <td>
-            <a href="https://github.com/isra991">
+  <td align="center">
+            <a href="https://github.com/isra991" align="center">
   <figure align='center'>
   <img src="https://github.com/isra991.png" width=50 height=50 align='center'/>
      <br/>
@@ -109,8 +108,8 @@ TeamForward allows users to:
     </td>
   </td>
 
-  <td>
-            <a href="https://github.com/Pharmacode">
+  <td align="center">
+            <a href="https://github.com/Pharmacode" align="center">
   <figure align='center'>
   <img src="https://github.com/Pharmacode.png" width=50 height=50 align='center'/>
      <br/>
@@ -120,8 +119,8 @@ TeamForward allows users to:
     </td>
   </td>
 
-  <td>
-            <a href="https://github.com/Sanaz-RH">
+  <td align="center">
+            <a href="https://github.com/Sanaz-RH" align="center">
   <figure align='center'>
   <img src="https://github.com/Sanaz-RH.png" width=50 height=50 align='center'/>
      <br/>
@@ -130,8 +129,8 @@ TeamForward allows users to:
   </a>
     </td>
   </td>
-    <td>
-            <a href="https://github.com/RoxaneDesign">
+    <td align="center">
+            <a href="https://github.com/RoxaneDesign" align="center">
   <figure align='center'>
   <img src="https://github.com/RoxaneDesign.png" width=50 height=50 align='center'/>
      <br/>
@@ -142,8 +141,8 @@ TeamForward allows users to:
   </td>
   </tr>
   <tr>
-  <td>
-      <a href="https://github.com/farhadham">
+  <td align="center">
+      <a href="https://github.com/farhadham" align="center">
       <figure align="center">
       <img src="https://github.com/farhadham.png" width=50 height=50 align='center'/>
       <br/>
@@ -151,8 +150,8 @@ TeamForward allows users to:
       </figure>
       </a>
     </td>
-      <td>
-  <a href="https://github.com/onetoughcookie226">
+      <td align="center">
+  <a href="https://github.com/onetoughcookie226" align="center">
   <figure align='center'>
   <img src="https://github.com/onetoughcookie226.png" width=50 height=50 align='center'/>
           <br/>
