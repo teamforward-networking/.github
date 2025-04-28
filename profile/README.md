@@ -163,59 +163,6 @@ TeamForward allows users to:
 </tr>
 </table>
 
-#### A special thanks to our past contributors !
-
-<table>
-  <tr>
-    <td>Frontend Devs</td>
-    <td>
-        <a href="https://github.com/MattRueter">
-  <img src="https://github.com/MattRueter.png" width=50 height=50 align='center'/>
-    </a>
-    <a href="https://github.com/tdo95">
-      <img src="https://github.com/tdo95.png" width="50" height="50" align='center'>
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>Backend Devs</td>
-    <td>
-    <a href="https://github.com/TeddyGavi">
-      <img src="https://github.com/TeddyGavi.png" width="50" height="50" align='center'>
-    </a>
-    </td>
-  </tr><tr>
-    <td>Tech Leads</td>
-    <td>
-    <a href="https://github.com/jaceksupernak">
-      <img src="https://github.com/jaceksupernak.png" width="50" height="50" align='center'>
-    </a>
-    <a href="https://github.com/doinby">
-      <img src="https://github.com/doinby.png" width="50" height="50" align='center'>
-    </a>
-    <a href="https://github.com/ronaldpaek">
-      <img src="https://github.com/ronaldpaek.png" width="50" height="50" align='center'>
-    </a>
-    <a href="https://github.com/ericadev">
-      <img src="https://github.com/ericadev.png" width="50" height="50" align='center'>
-    </a>
-    </td>
-  </tr>
-   <tr>
-    <td>Product Owners</td>
-    <td>
-    <a href="https://github.com/AliMora83">
-      <img src="https://github.com/AliMora83.png" width="50" height="50" >
-    </a>
-    </td>
-  </tr>
-</table>
 
 #### Thank you to [Jim](https://github.com/jdmedlock) and the [Chingu](https://www.chingu.io/) team!
 
-<!-- - [Issac](https://github.com/issac-lewkowicz)
-- [Danielle](https://github.com/DrAcula27)
-- [Oscar](https://github.com/oscarsanchez13)
-- [Javi](https://github.com/javi459)
-- [Kevin](https://github.com/kevykim)
-- [Katy](https://github.com/katyky14) -->
